@@ -1,0 +1,14 @@
+*.egg-info/
+.ipynb_checkpoints/
+dist/
+build/
+*.py[cod]
+node_modules/
+
+package-lock.json
+
+# Compiled javascript
+fastcanvas/static/
+
+# OS X
+.DS_Store
